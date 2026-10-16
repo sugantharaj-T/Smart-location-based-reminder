@@ -1,9 +1,9 @@
-# Smart Location Reminder App 📍🔔
+# Smart Location Reminder App 
 https://smart-location-reminder.vercel.app/
 
 A smart productivity web application that combines note-taking with real-time location awareness. The app reminds users about tasks automatically when they reach or come near a saved location.
 
-## 🚀 Features
+## Features
 
 - Create and manage reminders/tasks
 - Attach reminders to specific locations
@@ -12,7 +12,7 @@ A smart productivity web application that combines note-taking with real-time lo
 - Simple and clean UI
 - Responsive design
 
-## 💡 Example Use Case
+## Example Use Case
 
 Suppose a user needs to buy:
 - Bolts
@@ -20,7 +20,7 @@ Suppose a user needs to buy:
 
 The user creates a reminder and tags the hardware store location. When the user travels near that location, the app automatically sends a reminder notification.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
